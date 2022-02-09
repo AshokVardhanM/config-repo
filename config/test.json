@@ -1,0 +1,10 @@
+{
+  "test": {
+    "prop": "this is json prop"
+  },
+  "keys": {
+    "key1": "key1-value",
+    "key2": "key2-value",
+    "key3": "key3-value"
+  }
+}
