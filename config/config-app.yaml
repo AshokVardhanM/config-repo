@@ -1,0 +1,7 @@
+test:
+  greeting: "this is yaml file in config repo"
+
+keys:
+  key1: "value1"
+  key2: "value2"
+  key3: "value3"
